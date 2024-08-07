@@ -1,5 +1,6 @@
 Introduction
-Welcome to my portfolio website! This project showcases my work and skills as a web developer. It is built using HTML, CSS, and JavaScript, and aims to provide a comprehensive overview of my projects, skills, and experience.
+Welcome to my portfolio website! This project showcases my work and skills as a web developer. 
+It is built using HTML, CSS, and JavaScript, and aims to provide a comprehensive overview of my projects, skills, and experience.
 
 Features
 Responsive Design: Adapts to various screen sizes for an optimal viewing experience on desktops, tablets, and mobile devices.
